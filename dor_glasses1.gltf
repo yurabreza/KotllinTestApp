@@ -1,0 +1,1348 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.0.5eb040c7)"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 4076,
+            "type": "VEC3",
+            "max": [
+                23.65685272216797,
+                19.37704849243164,
+                3.666494131088257
+            ],
+            "min": [
+                -92.50830841064453,
+                -19.62856674194336,
+                -1.7803804874420167
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 21504,
+            "type": "SCALAR",
+            "max": [
+                4075
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 3432,
+            "type": "VEC3",
+            "max": [
+                87.36690521240235,
+                11.339071273803711,
+                1.3743000030517579
+            ],
+            "min": [
+                -56.880279541015628,
+                -28.403133392333986,
+                -21.8872127532959
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 16392,
+            "type": "SCALAR",
+            "max": [
+                3431
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 10978,
+            "type": "VEC3",
+            "max": [
+                34.791690826416019,
+                27.07137680053711,
+                4.304547309875488
+            ],
+            "min": [
+                -103.64314270019531,
+                -23.00287628173828,
+                -3.6388325691223146
+            ]
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 51264,
+            "type": "SCALAR",
+            "max": [
+                10977
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 1323,
+            "type": "VEC3",
+            "max": [
+                3.121023178100586,
+                2.6921920776367189,
+                3.6255340576171877
+            ],
+            "min": [
+                -22.14280128479004,
+                -3.066812038421631,
+                -3.892864942550659
+            ]
+        },
+        {
+            "bufferView": 7,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 6240,
+            "type": "SCALAR",
+            "max": [
+                1322
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 4100,
+            "type": "VEC3",
+            "max": [
+                26.475868225097658,
+                21.743209838867189,
+                5.179010391235352
+            ],
+            "min": [
+                -95.32731628417969,
+                -21.888721466064454,
+                -3.919952630996704
+            ]
+        },
+        {
+            "bufferView": 9,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 18432,
+            "type": "SCALAR",
+            "max": [
+                4099
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 10,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 2498,
+            "type": "VEC3",
+            "max": [
+                126.03936004638672,
+                0.8159477114677429,
+                3.6112427711486818
+            ],
+            "min": [
+                -1.1124014854431153,
+                -1.4667565822601319,
+                -0.2293987274169922
+            ]
+        },
+        {
+            "bufferView": 11,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 13536,
+            "type": "SCALAR",
+            "max": [
+                2497
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 12,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 4476,
+            "type": "VEC3",
+            "max": [
+                138.42686462402345,
+                1.5729339122772217,
+                2.210451126098633
+            ],
+            "min": [
+                -1.47998046875,
+                -6.2091240882873539,
+                -2.033967971801758
+            ]
+        },
+        {
+            "bufferView": 13,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 17856,
+            "type": "SCALAR",
+            "max": [
+                4475
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 14,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 3410,
+            "type": "VEC3",
+            "max": [
+                87.36690521240235,
+                11.339071273803711,
+                -118.1872329711914
+            ],
+            "min": [
+                -56.88031005859375,
+                -28.403135299682618,
+                -141.44876098632813
+            ]
+        },
+        {
+            "bufferView": 15,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 16392,
+            "type": "SCALAR",
+            "max": [
+                3409
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 1057980,
+            "uri": "result.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 48912,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 48912,
+            "byteLength": 86016,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 134928,
+            "byteLength": 41184,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 176112,
+            "byteLength": 65568,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 241680,
+            "byteLength": 131736,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 373416,
+            "byteLength": 205056,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 578472,
+            "byteLength": 15876,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 594348,
+            "byteLength": 24960,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 619308,
+            "byteLength": 49200,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 668508,
+            "byteLength": 73728,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 742236,
+            "byteLength": 29976,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 772212,
+            "byteLength": 54144,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 826356,
+            "byteLength": 53712,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 880068,
+            "byteLength": 71424,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 951492,
+            "byteLength": 40920,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 992412,
+            "byteLength": 65568,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "Material_39",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.7098039388656616,
+                    0.7098039388656616,
+                    0.7098039388656616,
+                    0.9517723917961121
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.9438642263412476
+            },
+            "alphaMode": "BLEND"
+        },
+        {
+            "name": "Material_40",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.062745101749897,
+                    0.05098039284348488,
+                    0.05098039284348488,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.9850468039512634
+            }
+        },
+        {
+            "name": "Material_41",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.062745101749897,
+                    0.05098039284348488,
+                    0.05098039284348488,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.9850468039512634
+            }
+        },
+        {
+            "name": "Material_42",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.938961923122406
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.9737706184387207
+            },
+            "alphaMode": "BLEND"
+        },
+        {
+            "name": "Material_43",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.5882353186607361,
+                    0.5882353186607361,
+                    0.5882353186607361,
+                    0.2824913561344147
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.94808429479599
+            },
+            "alphaMode": "BLEND"
+        },
+        {
+            "name": "Material_44",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.062745101749897,
+                    0.05098039284348488,
+                    0.05098039284348488,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.9850468039512634
+            }
+        },
+        {
+            "name": "Material_45",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.062745101749897,
+                    0.05098039284348488,
+                    0.05098039284348488,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.9850468039512634
+            }
+        },
+        {
+            "name": "Material_46",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.062745101749897,
+                    0.05098039284348488,
+                    0.05098039284348488,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.9850468039512634
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "mesh_id5",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 1,
+                    "attributes": {
+                        "POSITION": 0
+                    }
+                }
+            ]
+        },
+        {
+            "name": "mesh_id7",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 1,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 2
+                    }
+                }
+            ]
+        },
+        {
+            "name": "mesh_id9",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 2,
+                    "indices": 5,
+                    "attributes": {
+                        "POSITION": 4
+                    }
+                }
+            ]
+        },
+        {
+            "name": "mesh_id11",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 3,
+                    "indices": 7,
+                    "attributes": {
+                        "POSITION": 6
+                    }
+                }
+            ]
+        },
+        {
+            "name": "mesh_id13",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 4,
+                    "indices": 9,
+                    "attributes": {
+                        "POSITION": 8
+                    }
+                }
+            ]
+        },
+        {
+            "name": "mesh_id15",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 5,
+                    "indices": 11,
+                    "attributes": {
+                        "POSITION": 10
+                    }
+                }
+            ]
+        },
+        {
+            "name": "mesh_id17",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 6,
+                    "indices": 13,
+                    "attributes": {
+                        "POSITION": 12
+                    }
+                }
+            ]
+        },
+        {
+            "name": "mesh_id19",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 7,
+                    "indices": 15,
+                    "attributes": {
+                        "POSITION": 14
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "root",
+            "children": [
+                2
+            ]
+        },
+        {
+            "name": "node_id20",
+            "matrix": [
+                -0.0009999991161748767,
+                -8.742270102279903e-11,
+                1.4901158432167884e-11,
+                0.0,
+                -8.742277735063198e-11,
+                0.0010000000474974514,
+                8.742277735063198e-11,
+                0.0,
+                -1.4901165371061788e-11,
+                8.742270102279903e-11,
+                -0.0009999991161748767,
+                0.0,
+                -8.746261670466993e-8,
+                2.0450534599092409e-9,
+                0.548959493637085,
+                1.0
+            ],
+            "children": [
+                3,
+                7,
+                12,
+                16,
+                21,
+                25,
+                30,
+                35
+            ]
+        },
+        {
+            "name": "node_id4_$AssimpFbx$_Translation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -0.00007812253898009658,
+                14.135261535644532,
+                530.393798828125,
+                1.0
+            ],
+            "children": [
+                4
+            ]
+        },
+        {
+            "name": "node_id4_$AssimpFbx$_Scaling",
+            "matrix": [
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                5
+            ]
+        },
+        {
+            "name": "node_id4_$AssimpFbx$_GeometricTranslation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                34.425724029541019,
+                -5.9773640632629398,
+                9.738362223288278e-7,
+                1.0
+            ],
+            "children": [
+                6
+            ]
+        },
+        {
+            "name": "node_id4",
+            "mesh": 0
+        },
+        {
+            "name": "node_id6_$AssimpFbx$_Translation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -250.98435974121095,
+                53.86891174316406,
+                496.6695556640625,
+                1.0
+            ],
+            "children": [
+                8
+            ]
+        },
+        {
+            "name": "node_id6_$AssimpFbx$_Rotation",
+            "matrix": [
+                1.9470718370939722e-7,
+                0.0,
+                1.0,
+                0.0,
+                -1.6292068494294654e-7,
+                1.0,
+                3.172182771993791e-14,
+                0.0,
+                -1.0,
+                -1.6292068494294654e-7,
+                1.9470718370939722e-7,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                9
+            ]
+        },
+        {
+            "name": "node_id6_$AssimpFbx$_Scaling",
+            "matrix": [
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                10
+            ]
+        },
+        {
+            "name": "node_id6_$AssimpFbx$_GeometricTranslation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -81.66637420654297,
+                -8.90041446685791,
+                0.024825934320688249,
+                1.0
+            ],
+            "children": [
+                11
+            ]
+        },
+        {
+            "name": "node_id6",
+            "mesh": 1
+        },
+        {
+            "name": "node_id8_$AssimpFbx$_Translation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -0.00007812253898009658,
+                14.135261535644532,
+                530.393798828125,
+                1.0
+            ],
+            "children": [
+                13
+            ]
+        },
+        {
+            "name": "node_id8_$AssimpFbx$_Scaling",
+            "matrix": [
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                14
+            ]
+        },
+        {
+            "name": "node_id8_$AssimpFbx$_GeometricTranslation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                34.425724029541019,
+                -5.9773640632629398,
+                9.738362223288278e-7,
+                1.0
+            ],
+            "children": [
+                15
+            ]
+        },
+        {
+            "name": "node_id8",
+            "mesh": 2
+        },
+        {
+            "name": "node_id10_$AssimpFbx$_Translation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -0.00007812253898009658,
+                14.135261535644532,
+                530.393798828125,
+                1.0
+            ],
+            "children": [
+                17
+            ]
+        },
+        {
+            "name": "node_id10_$AssimpFbx$_Rotation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -4.371138828673793e-8,
+                -1.0,
+                0.0,
+                0.0,
+                1.0,
+                -4.371138828673793e-8,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                18
+            ]
+        },
+        {
+            "name": "node_id10_$AssimpFbx$_Scaling",
+            "matrix": [
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                19
+            ]
+        },
+        {
+            "name": "node_id10_$AssimpFbx$_GeometricTranslation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                9.510887145996094,
+                1.341231107711792,
+                -5.678861141204834,
+                1.0
+            ],
+            "children": [
+                20
+            ]
+        },
+        {
+            "name": "node_id10",
+            "mesh": 3
+        },
+        {
+            "name": "node_id12_$AssimpFbx$_Translation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -0.00007812253898009658,
+                14.135261535644532,
+                530.393798828125,
+                1.0
+            ],
+            "children": [
+                22
+            ]
+        },
+        {
+            "name": "node_id12_$AssimpFbx$_Scaling",
+            "matrix": [
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                23
+            ]
+        },
+        {
+            "name": "node_id12_$AssimpFbx$_GeometricTranslation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                34.425724029541019,
+                -5.9773640632629398,
+                9.738362223288278e-7,
+                1.0
+            ],
+            "children": [
+                24
+            ]
+        },
+        {
+            "name": "node_id12",
+            "mesh": 4
+        },
+        {
+            "name": "node_id14_$AssimpFbx$_Translation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -0.00007812253898009658,
+                14.135261535644532,
+                530.393798828125,
+                1.0
+            ],
+            "children": [
+                26
+            ]
+        },
+        {
+            "name": "node_id14_$AssimpFbx$_Rotation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -4.371138828673793e-8,
+                -1.0,
+                0.0,
+                0.0,
+                1.0,
+                -4.371138828673793e-8,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                27
+            ]
+        },
+        {
+            "name": "node_id14_$AssimpFbx$_Scaling",
+            "matrix": [
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                28
+            ]
+        },
+        {
+            "name": "node_id14_$AssimpFbx$_GeometricTranslation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -62.46347427368164,
+                3.4602670669555666,
+                4.036860466003418,
+                1.0
+            ],
+            "children": [
+                29
+            ]
+        },
+        {
+            "name": "node_id14",
+            "mesh": 5
+        },
+        {
+            "name": "node_id16_$AssimpFbx$_Translation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -0.00007812253898009658,
+                14.135261535644532,
+                530.393798828125,
+                1.0
+            ],
+            "children": [
+                31
+            ]
+        },
+        {
+            "name": "node_id16_$AssimpFbx$_Rotation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                -4.371138828673793e-8,
+                -1.0,
+                0.0,
+                0.0,
+                1.0,
+                -4.371138828673793e-8,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                32
+            ]
+        },
+        {
+            "name": "node_id16_$AssimpFbx$_Scaling",
+            "matrix": [
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                33
+            ]
+        },
+        {
+            "name": "node_id16_$AssimpFbx$_GeometricTranslation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -68.47344207763672,
+                9.239336967468262,
+                11.010591506958008,
+                1.0
+            ],
+            "children": [
+                34
+            ]
+        },
+        {
+            "name": "node_id16",
+            "mesh": 6
+        },
+        {
+            "name": "node_id18_$AssimpFbx$_Translation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                250.9650421142578,
+                54.381591796875,
+                496.71923828125,
+                1.0
+            ],
+            "children": [
+                36
+            ]
+        },
+        {
+            "name": "node_id18_$AssimpFbx$_Rotation",
+            "matrix": [
+                1.9470718370939722e-7,
+                0.0,
+                1.0,
+                0.0,
+                -1.6292068494294654e-7,
+                1.0,
+                3.172182771993791e-14,
+                0.0,
+                -1.0,
+                -1.6292068494294654e-7,
+                1.9470718370939722e-7,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                37
+            ]
+        },
+        {
+            "name": "node_id18_$AssimpFbx$_Scaling",
+            "matrix": [
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                3.5848538875579836,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                38
+            ]
+        },
+        {
+            "name": "node_id18_$AssimpFbx$_GeometricTranslation",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                -81.68021392822266,
+                -9.043417930603028,
+                140.04429626464845,
+                1.0
+            ],
+            "children": [
+                39
+            ]
+        },
+        {
+            "name": "node_id18",
+            "mesh": 7
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
